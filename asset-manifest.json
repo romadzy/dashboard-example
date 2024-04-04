@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5cd29d2.css",
+    "main.js": "/static/js/main.30029716.js",
+    "static/media/sidebar-footer-img.svg": "/static/media/sidebar-footer-img.a137c6683126b4c950b608e8ad4fb385.svg",
+    "static/media/hamburger.png": "/static/media/hamburger.a633845bca57a0d1a648.png",
+    "static/media/logo.svg": "/static/media/logo.b585074494aaa6ffb0cb88ac53f58f18.svg",
+    "static/media/promote.svg": "/static/media/promote.5230029f4e637c534c143c4d95cf421f.svg",
+    "static/media/income.svg": "/static/media/income.25d824b57e5c5a753432296807e7285d.svg",
+    "static/media/product.svg": "/static/media/product.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
+    "static/media/help.svg": "/static/media/help.5d23912a887f9edc9d9f8d957ec960e6.svg",
+    "static/media/customers.svg": "/static/media/customers.27617add0f452c671fec310dc74fcb18.svg",
+    "static/media/dashboard.svg": "/static/media/dashboard.153a0eb179be0548729792a4f21fc52e.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.d555a35800fec6f7c1928aef95546ef7.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.618c411d724ff239093f3539c12387f1.svg",
+    "main.e5cd29d2.css.map": "/static/css/main.e5cd29d2.css.map",
+    "main.30029716.js.map": "/static/js/main.30029716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5cd29d2.css",
+    "static/js/main.30029716.js"
+  ]
+}
