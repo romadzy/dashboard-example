@@ -1,0 +1,42 @@
+
+.navigation {
+  &__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    padding: 11px 9px 11px 11px;
+    margin-bottom: 18px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &:hover, &:hover > p,  &-active, &-active > p {
+      background-color: #5932EA;
+      color: #fff;
+    }
+
+    @media screen and (max-width: 1500px) {
+      margin-bottom: 5px;
+    }
+  }
+
+  &__text {
+    color: #9197B3;
+  }
+
+  &__img {
+    fill: #fff !important;
+
+    &:hover {
+      fill: #fff !important;
+    }
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .navigation {
+    display: none;
+  }
+}
